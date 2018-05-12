@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5695
     wikipedia: http://fi.wikipedia.org/wiki/Evald_Ferdinand_Jahnsson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20252#Raatimiehen-tyt-rHistoriallis-romantillinen-n-ytelm--kolmessa-n-yt-ksess-
 gutenberg_issued: '2007-01-02'
 gutenberg_type: Text
 identifiers:
